@@ -21,7 +21,7 @@ puts me.report_total([6,3,6,68,455,4,467,57,4,534]) # है को कुल 16
 me.travel_to("Italy")
 puts me.report_total([324,245,6,343647,686545]) # È Il totale 1030767
 ```
-###Quote collector
+### Quote collector
 ___
 The second child class we're going to define represents a person who loves to memorize quotes and then travel the world, unleashing poor translations of them to unsuspecting passers-by.
 
